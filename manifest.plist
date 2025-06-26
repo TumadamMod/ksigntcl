@@ -18,13 +18,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>ksign.free.v1</string>
+        <string>com.ksign.app9</string>
         <key>bundle-version</key>
         <string>1.3</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Ksign</string>
+        <string>KSign</string>
       </dict>
     </dict>
   </array>
